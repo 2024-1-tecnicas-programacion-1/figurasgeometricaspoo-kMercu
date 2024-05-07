@@ -38,6 +38,7 @@ public class Principal {
                 
                 
             case 2: // Rectángulo
+                
                 System.out.println("Ingrese el valor del lado 1 del rectángulo:");
                     double lado1Rectangulo = sc.nextDouble();
                 System.out.println("Ingrese el valor del lado 2 del rectángulo:");
